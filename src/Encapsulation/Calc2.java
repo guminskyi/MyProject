@@ -17,4 +17,6 @@ public class Calc2 {
         return result;
     }
 
+    private int all = 0;
+    
 }
